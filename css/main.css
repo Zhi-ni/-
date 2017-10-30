@@ -1,0 +1,15 @@
+.ppp {
+    color: blue;
+}
+#zzz{color:peru;}
+
+div a {
+    color:red;
+}
+
+div > a > p {
+    font-size: 40px;}
+
+
+#ttt{color:rosybrown;background:rebeccapurple ;height:60px;}
+#iii{color:rosybrown;background:crimson ;height:80px;}
